@@ -2,7 +2,11 @@
 
 This ever evolving project demonstrates language features in C++20/17/14/11.
 
-Uses clang 11 compiler on linux (pop os 20.10).
+Linux Distro "Pop!_OS 20.10"
+
+cmake version 3.16.3
+
+Ubuntu clang version 11.0.0-2
 
 ## Table of Contents
 
