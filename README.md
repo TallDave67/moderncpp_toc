@@ -20,7 +20,7 @@ Ubuntu clang version 11.0.0-2
 
 ### C++14
 
-[Overloading by Forwarding](https://github.com/TallDave67/overloading-by-forwarding)
+[Overloading by Forwarding from lambda](https://github.com/TallDave67/overloading-by-forwarding)
 
 ### C++11
 
