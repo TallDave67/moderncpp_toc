@@ -25,3 +25,5 @@ Ubuntu clang version 11.0.0-2
 ### C++11
 
 [Thread Safety](https://github.com/TallDave67/thread-safety)
+
+[State Machine](https://github.com/TallDave67/state-machine)
