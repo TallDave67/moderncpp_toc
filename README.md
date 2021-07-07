@@ -1,6 +1,6 @@
 # Modern C++20
 
-This ever evolving project demonstrates language features in DPC++/C++20/17/14/11.
+This ever evolving project demonstrates language features in C++20/17/14/11 and DPC++.
 
 Linux distro "Pop!_OS 20.10" or "Pop!_OS 21.04"
 
