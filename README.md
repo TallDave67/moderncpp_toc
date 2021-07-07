@@ -1,4 +1,4 @@
-# Modern C++20
+# Modern C++20 and DPC++
 
 This ever evolving project demonstrates language features in C++20/17/14/11 and DPC++.
 
