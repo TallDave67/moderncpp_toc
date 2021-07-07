@@ -2,7 +2,7 @@
 
 This ever evolving project demonstrates language features in C++20/17/14/11.
 
-Linux distro "Pop!_OS 20.10" to "Pop!_OS 21.04"
+Linux distro "Pop!_OS 20.10" or "Pop!_OS 21.04"
 
 cmake version 3.16.3 or 3.18.4
 
