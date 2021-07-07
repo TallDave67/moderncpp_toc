@@ -4,11 +4,15 @@ This ever evolving project demonstrates language features in C++20/17/14/11.
 
 Linux distro "Pop!_OS 20.10" to "Pop!_OS 21.04"
 
-cmake version 3.16.3
+cmake version 3.16.3 or 3.18.4
 
-Ubuntu clang version 11.0.0-2
+Ubuntu clang version 11.0.0-2 or Intel(R) oneAPI DPC++/C++ Compiler 2021.3.0 (2021.3.0.20210619)
 
 ## Table of Contents
+
+### DPC++ (Intel's Data Parallel C++)
+
+[Simple Vector Add a.k.a Hello Parallel World](https://github.com/TallDave67/parallel-simple-vector-add)
 
 ### C++20
 
