@@ -16,6 +16,8 @@ Ubuntu clang version 11.0.0-2 or Intel(R) oneAPI DPC++/C++ Compiler 2021.3.0 (20
 
 [Matrix Multiply with ND Range Kernel](https://github.com/TallDave67/parallel-nd-range-matrix-multiply)
 
+[Get Device Info](https://github.com/TallDave67/parallel-get-device-info)
+
 ### C++20
 
 ["Hello World" Module](https://github.com/TallDave67/helloworld)
