@@ -18,6 +18,8 @@ Ubuntu clang version 11.0.0-2 or Intel(R) oneAPI DPC++/C++ Compiler 2021.3.0 (20
 
 [Get Device Info (with error handling)](https://github.com/TallDave67/parallel-get-device-info)
 
+[Buffer Accessors Create Data Dependencies](https://github.com/TallDave67/parallel-buffer-accessors-create-dependencies)
+
 ### C++20
 
 ["Hello World" Module](https://github.com/TallDave67/helloworld)
