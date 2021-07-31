@@ -12,6 +12,10 @@ Ubuntu clang version 11.0.0-2 or Intel(R) oneAPI DPC++/C++ Compiler 2021.3.0 (20
 
 ### DPC++ (Intel's Data Parallel C++)
 
+#### Inspired by Intel Sample Code
+
+[USM vs Buffer with Accessor](https://github.com/TallDave67/parallel-usm-vs-bufffer-with-accessor)
+
 #### Modified Intel Sample Code
 
 [Simple Vector Add, a.k.a "Hello Parallel World"](https://github.com/TallDave67/parallel-simple-vector-add)
