@@ -6,7 +6,7 @@ Linux distro "Pop!_OS 20.10" or "Pop!_OS 21.04"
 
 cmake version 3.16.3 or 3.18.4
 
-Ubuntu clang version 11.0.0-2
+Ubuntu clang version 11.0.0-2 or 12.0.0
 
 ## Table of Contents
 
